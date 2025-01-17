@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Nana Kwakye, a dedicated software development professional with a strong foundation in modern web technologies and cloud<br>solutions. With experience in automating processes and enhancing data management efficiency, I have successfully led projects<br>that leverage Python, JavaScript, AWS, and Agile methodologies. Currently holding a Bachelor of Science in Information Technology, I am<br>eager to tackle new challenges and contribute to innovative solutions.<br><br>I am currently working on a web page for a bussiness called<br>"Sister's Hairbraiding" and a Customer Churn Data Project.<br><br>
+Hi, I am Nana Kwakye, a dedicated software development professional with a strong foundation in modern web technologies and cloud<br>solutions. With experience in automating processes and enhancing data management efficiency, I have successfully led projects<br>that leverage Python, JavaScript, AWS, and Agile methodologies. Currently holding a Bachelor of Science in Information Technology, I am<br>eager to tackle new challenges and contribute to innovative solutions.<br><br>I am currently working on a web page for a business called<br>"Sister's Hairbraiding" and a Movie Recommendation Spring Project.<br><br>
 
 
 ## 🌐 Socials:
